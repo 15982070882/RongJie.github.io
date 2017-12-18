@@ -118,7 +118,7 @@ layout: default
             </div>
             <div class="col-sm-6 col-md-4 col-lg-3 ">
                 <div class="thumbnail">
-                    <a href="/sub-video-item/">
+                    <a href="/sub-video-item/#商业广告">
                         <img src="img/f_2.png"/>
                         <div class="caption">
                             <span>商业广告</span></br>
@@ -188,7 +188,7 @@ layout: default
         </div>
 		-->
 	</div>
-    <div class="row mt-5 hide">
+    <div class="row mt-5">
         <div class="col-sm-6 col-md-4 col-lg-4 cases">
             <a href="#">
                 <img src="img/e_4.jpg" />
@@ -224,23 +224,6 @@ layout: default
                 col-md-10 col-md-offset-1
                 sidebar-container">
 
-                <!-- Featured Tags -->
-                {% if site.featured-tags %}
-                <section>
-                    <!-- no hr -->
-                    <h5><a href="{{'/tags/' | prepend: site.baseurl }}">FEATURED TAGS</a></h5>
-                    <div class="tags">
-        				{% for tag in site.tags %}
-                            {% if tag[1].size > {{site.featured-condition-size}} %}
-                				<a href="{{ site.baseurl }}/tags/#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">
-                                    {{ tag[0] }}
-                                </a>
-                            {% endif %}
-        				{% endfor %}
-        			</div>
-                </section>
-                {% endif %}
-
                 <!-- Friends Blog -->
                 {% if site.friends %}
                 <hr>
@@ -274,6 +257,7 @@ layout: default
                 sidebar-container
             ">
                 <!-- Featured Tags -->
+                <!--
                 {% if site.featured-tags %}
                 <section>
                     <hr class="hidden-sm hidden-xs">
@@ -289,7 +273,7 @@ layout: default
                     </div>
                 </section>
                 {% endif %}
-
+            -->
                 <!-- Short About -->
                 <section class="visible-md visible-lg">
                     <hr><h5><a href="{{'/about/' | prepend: site.baseurl }}">ABOUT ME</a></h5>
