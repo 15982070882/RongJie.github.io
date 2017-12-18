@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      "黄老五花生酥参赛微电影"
+subtitle:   "黄老五花生酥参赛微电影"
+date:       2017-10-11 19:52:00
+author:     "Kent"
+header-img: "img/tag-bg.jpg"
+preview-img: "img/post_3_3.png"
+video-src: "http://player.youku.com/embed/XMzI0MjU5NTQ5Mg=="
+catalog: true
+tags:
+    - 微电影
+---
+
+## TITLE

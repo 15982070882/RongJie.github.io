@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "政略广告"
-subtitle:   "政略广告"
+title:      "正略广告"
+subtitle:   "正略广告"
 date:       2017-10-11 19:52:00
 author:     "Kent"
 header-img: "img/tag-bg.jpg"
