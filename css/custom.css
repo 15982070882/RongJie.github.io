@@ -132,6 +132,14 @@ body {
     color: #666;
 }
 
+.thumbnail a {
+    text-decoration: none;
+}
+
+.thumbnail a img {
+    cursor: pointer !important;
+}
+
 .cases img {
     width: 100%;
 }

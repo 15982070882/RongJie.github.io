@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      "飞鱼星 G3 路由器产品介绍"
+subtitle:   "飞鱼星 G3 路由器产品介绍"
+date:       2017-10-11 19:52:00
+author:     "Kent"
+header-img: "img/tag-bg.jpg"
+video-src: "http://player.youku.com/embed/XMzI0MTY4NDc3Mg=="
+catalog: true
+tags:
+    - 商业广告
+---
+
+## TITLE
