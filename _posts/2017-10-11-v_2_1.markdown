@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      "龙泉驿水蜜桃纪录片"
+subtitle:   "龙泉驿水蜜桃纪录片"
+date:       2017-10-11 19:52:00
+author:     "Kent"
+header-img: "img/tag-bg.jpg"
+preview-img: "img/post_2_1.png"
+video-src: "http://player.youku.com/embed/XMzI0MTk2MDY2OA=="
+catalog: true
+tags:
+    - 纪录片
+---
+
+## TITLE

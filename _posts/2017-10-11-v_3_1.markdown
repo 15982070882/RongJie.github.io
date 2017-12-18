@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      "OMG战队概念宣传片"
+subtitle:   "OMG战队概念宣传片"
+date:       2017-10-11 19:52:00
+author:     "Kent"
+header-img: "img/tag-bg.jpg"
+preview-img: "img/post_3_1.png"
+video-src: "http://player.youku.com/embed/XMzI0MjA3NzE2NA=="
+catalog: true
+tags:
+    - 微电影
+---
+
+## TITLE

@@ -6,7 +6,7 @@ paginate_path: "page:num"
 show_downloads: true
 theme: 
 gems: [jekyll-paginate]
-
+preview-img: "img/e_4.jpg"
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.

@@ -181,3 +181,32 @@ body {
     color: #665139;
     border-color: #d1bfa9;
 }
+
+.post-img-box {
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+}
+
+.post-img-box a {
+    cursor: pointer !important;
+}
+
+.post-img-box a img {
+    min-width: 100%;
+    min-height: 200px;
+    cursor: pointer !important;
+}
+
+.post-preview {
+    margin-top: -55px;
+    background-color: #000000;
+    margin-left: 0px !important;
+    padding: 1px 20px;
+    opacity: 0.4;
+    filter:alpha(opacity=40); /* 针对 IE8 以及更早的版本 */
+}
+
+.post-preview .post-title {
+    color: #fff;
+}

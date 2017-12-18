@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      "宝贝星计划60S"
+subtitle:   "宝贝星计划60S"
+date:       2017-10-11 19:52:00
+author:     "Kent"
+header-img: "img/tag-bg.jpg"
+preview-img: "img/post_4_2.png"
+video-src: "http://player.youku.com/embed/XMzI0MTk1MjUwMA=="
+catalog: true
+tags:
+    - 商业广告
+---
+
+## TITLE

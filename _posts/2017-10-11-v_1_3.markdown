@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      "眉山玫瑰园地产概念片"
+subtitle:   "眉山玫瑰园地产概念片"
+date:       2017-10-11 19:52:00
+author:     "Kent"
+header-img: "img/tag-bg.jpg"
+preview-img: "img/post_1_3.png"
+video-src: "http://player.youku.com/embed/XMzI0MTk1NDUyNA=="
+catalog: true
+tags:
+    - 企业宣传片
+---
+
+## TITLE

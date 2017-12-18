@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      "推事本企业宣传片"
+subtitle:   "推事本企业宣传片"
+date:       2017-10-11 19:52:00
+author:     "Kent"
+header-img: "img/tag-bg.jpg"
+preview-img: "img/post_1_1.png"
+video-src: "http://player.youku.com/embed/XMzI0MTk5OTQ5Ng=="
+catalog: true
+tags:
+    - 企业宣传片
+---
+
+## TITLE

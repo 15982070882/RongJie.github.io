@@ -5,6 +5,7 @@ subtitle:   "飞鱼星 G3 路由器产品介绍"
 date:       2017-10-11 19:52:00
 author:     "Kent"
 header-img: "img/tag-bg.jpg"
+preview-img: "img/post_4_1.png"
 video-src: "http://player.youku.com/embed/XMzI0MTY4NDc3Mg=="
 catalog: true
 tags:
