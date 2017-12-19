@@ -57,8 +57,10 @@ layout: default
                 col-lg-12 col-lg-offset-0
                 col-md-12 col-md-offset-1
                 post-container">
-				<iframe height="600" width="100%" src='{{ page.video-src }}' frameborder=0 'allowfullscreen'></iframe>
+		<div class="embed-responsive embed-responsive-16by9">
+				<iframe class="embed-responsive-item" src='{{ page.video-src }}' frameborder=0 'allowfullscreen'></iframe>
 				<!-- {{ content }} -->
+		</div>	
 
                 <ul class="pager">
                     {% if page.previous.url %}
