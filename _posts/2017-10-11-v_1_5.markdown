@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      "中建钢构宣传片"
+subtitle:   "中建钢构宣传片"
+date:       2018-02-09 23:20:00
+author:     "Kent"
+header-img: "img/tag-bg.jpg"
+preview-img: "img/post_1_3.png"
+video-src: "http://v.youku.com/v_show/id_XMzMzOTY2ODA2NA==.html?spm=a2hzp.8244740.0.0"
+catalog: true
+tags:
+    - 企业宣传片
+---
+
+## TITLE
