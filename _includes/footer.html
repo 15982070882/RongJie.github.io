@@ -58,6 +58,9 @@
 <!-- Custom Theme JavaScript -->
 <script src="{{ "/js/hux-blog.min.js " | prepend: site.baseurl }}"></script>
 
+<!-- Image Lazy Load JavaScript -->
+<script src="{{ "/js/tuupola-jquery_lazyload/jquery.lazyload.min.js " | prepend: site.baseurl }}"></script>
+
 
 <!-- async load function -->
 <script>
@@ -161,3 +164,8 @@
 </script>
 {% endif %}
 
+<script type="text/javascript" charset="utf-8">
+    $(function() {
+        $("img.lazy").lazyload({effect: "fadeIn"});
+    });
+</script>
